@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "myeongwon <myeongwon@vanillacoding.co>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.13.2",
+    "gatsby-source-graphql": "^2.1.0",
+    "gatsby-source-instagram": "^0.5.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
